@@ -55,7 +55,6 @@
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
-
 <hr>
 <h2>Sample Input</h2>
 <hr>
@@ -89,13 +88,11 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
-
 
 <hr>
 <h2>Sample Input</h2>
